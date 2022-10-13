@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Phase-2-project/static/css/main.686842f3.chunk.css",
+    "main.js": "/Phase-2-project/static/js/main.35345ab1.chunk.js",
+    "main.js.map": "/Phase-2-project/static/js/main.35345ab1.chunk.js.map",
+    "runtime-main.js": "/Phase-2-project/static/js/runtime-main.43399af7.js",
+    "runtime-main.js.map": "/Phase-2-project/static/js/runtime-main.43399af7.js.map",
+    "static/css/2.89f067aa.chunk.css": "/Phase-2-project/static/css/2.89f067aa.chunk.css",
+    "static/js/2.7082f3bc.chunk.js": "/Phase-2-project/static/js/2.7082f3bc.chunk.js",
+    "static/js/2.7082f3bc.chunk.js.map": "/Phase-2-project/static/js/2.7082f3bc.chunk.js.map",
+    "index.html": "/Phase-2-project/index.html",
+    "precache-manifest.6ee78798a3103c59311f25e99e9e25eb.js": "/Phase-2-project/precache-manifest.6ee78798a3103c59311f25e99e9e25eb.js",
+    "service-worker.js": "/Phase-2-project/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/Phase-2-project/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.686842f3.chunk.css.map": "/Phase-2-project/static/css/main.686842f3.chunk.css.map",
+    "static/js/2.7082f3bc.chunk.js.LICENSE.txt": "/Phase-2-project/static/js/2.7082f3bc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43399af7.js",
+    "static/css/2.89f067aa.chunk.css",
+    "static/js/2.7082f3bc.chunk.js",
+    "static/css/main.686842f3.chunk.css",
+    "static/js/main.35345ab1.chunk.js"
+  ]
+}
