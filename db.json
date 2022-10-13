@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "age": "54",
+      "name": "William Ruto",
+      "gender": "male",
+      "position": "President",
+      "county": "Nandi"
+    },
+    {
+      "id": "2",
+      "age": 30,
+      "name": "Rigathi Gachagua",
+      "gender": "male",
+      "position": "Dep President",
+      "county": "Nyeri"
+    },
+    {
+      "id": "4",
+      "name": "Anne Waiguru",
+      "position": "Governor",
+      "county": "Kirinyaga",
+      "age": "45",
+      "gender": "Female"
+    },
+    {
+      "name": "Ivan Nguyo",
+      "position": "Governor",
+      "county": "Embub",
+      "age": "45",
+      "gender": "Male",
+      "id": "_GuR8FL"
+    },
+    {
+      "name": "Ivan Nguyo",
+      "position": "Governor",
+      "county": "Kirinyaga",
+      "age": "59",
+      "gender": "Female",
+      "id": "V-_zc0v"
+    },
+    {
+      "name": "mario",
+      "position": "Governor",
+      "county": "Kirinyaga",
+      "age": "45",
+      "gender": "Female",
+      "id": "2T8gOk1"
+    },
+    {
+      "name": "mario",
+      "position": "Governor",
+      "county": "Kirinyaga",
+      "age": "45",
+      "gender": "Male",
+      "id": "9DjR0lG"
+    },
+    {
+      "name": "Ivan Nguyo",
+      "position": "president",
+      "county": "Kirinyaga",
+      "age": "49",
+      "gender": "Female",
+      "id": "YSPQZ40"
+    }
+  ]
+}
